@@ -53,7 +53,8 @@ The 5th element and after are looked
   <br> In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of the Insertion Sort algorithm is O(n²). So the time complexity of Insertion Sort is worst case scenario n².
   n = 6. <br> 
   From (6.(6+1))/2 it will be O(6²).
-  <br>That is, if the input increases, the runtime increases as the square of the input. This can cause a lot of time for large inputs.
+  
+  <br> That is, if the input increases, the runtime increases as the square of the input. This can cause a lot of time for large inputs.
   <hr>
  <h2>3. Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are looking for is at the beginning of the series.
 
