@@ -39,7 +39,10 @@ The 5th element and after are looked
 <b>Step 6</b> <br>
 [2,6,16,18,22,27]
 <hr>
-<h2>2. Write the Big-O notation.<h2/>
+<h2>2. Write the Big-O notation.</h2>
  <br>
-  <p>In the 1st step, all the elements were checked, so if there are n elements, n operations were performed to find the smallest one.
-  </p>
+  <ul> <li>In the 1st step, all the elements were checked, so if there are n elements, n operations were performed to find the smallest one.</li>
+  <li>In step 2, we looked at Element 2 and then the elements that followed, namely n-1. So now n+(n-1).</li>
+  <li>In step 3, we made n-2 transactions. It became N+(n-1)+(n-2).</li>
+  </ul>
+ 
