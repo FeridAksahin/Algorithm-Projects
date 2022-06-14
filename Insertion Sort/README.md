@@ -60,4 +60,6 @@ The 5th element and after are looked
 
 <br> What case does the number 18 fall into after the array is sorted?</h2>
 <br>
+Time Complexity,
+The number 18, that is, the number we are looking for, is in the middle after the Insertion sort, so it is the Average case.
   
