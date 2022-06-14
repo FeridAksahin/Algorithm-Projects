@@ -5,7 +5,7 @@
 2.	Write the Big-O notation.<br>
 3.	Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are looking for is at the beginning of the series. <br>
 What case does the number 18 fall into after the array is sorted?<br>
-4.	Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
+4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Insertion Sort.
 <hr>
 <h2> 1.  Write the stages of the above sequence according to the Insertion Sort type. </h2>
 
@@ -59,4 +59,23 @@ The 5th element and after are looked
 <br> What case does the number 18 fall into after the array is sorted?</h2>
 Time Complexity,
 The number 18, that is, the number we are looking for, is in the middle after the Insertion sort, so it is the Average case.
+
+<hr>
+<h2>4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Insertion Sort.</h2>
+<b>Step 1</b>
+<br>
+[2,3,5,8,7,9,4,15,6] -- n transaction<br>
+<br>  
+<b>Step 2</b>
+<br>
+[2,3,5,8,7,9,4,15,6] -- n-1 transaction<br>
+<br>  
+<b>Step 3</b>
+<br>
+[2,3,4,8,7,9,5,15,6] -- n-2 transaction<br>
+<br>  
+<b>Step 4</b>
+<br>
+[2,3,4,5,7,9,8,15,6] -- n-3 transaction<br>
+<br>  
   
