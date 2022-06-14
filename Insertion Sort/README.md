@@ -59,7 +59,6 @@ The 5th element and after are looked
  <h2>Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are looking for is at the beginning of the series.
 
 <br> What case does the number 18 fall into after the array is sorted?</h2>
-<br>
 Time Complexity,
 The number 18, that is, the number we are looking for, is in the middle after the Insertion sort, so it is the Average case.
   
