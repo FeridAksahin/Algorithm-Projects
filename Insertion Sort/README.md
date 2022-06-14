@@ -3,8 +3,9 @@
 [22,27,16,2,18,6] -> Insertion Sort<br>
 1.  Write the stages of the above sequence according to the Insertion Sort type. <br>
 2.	Write the Big-O notation.<br>
-3.	Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are     looking for is at the beginning of the series.<br> 
-What case does the number 18 fall into after the array is sorted? Write.<br>
+3.	Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are     looking for is at the beginning of the series.
+<br> 
+What case does the number 18 fall into after the array is sorted?<br>
 <hr>
 Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.<br>
 
@@ -54,5 +55,9 @@ The 5th element and after are looked
   <br> In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of this algorithm comes from O(n²) from here. So the time complexity of Insertion Sort is worst case scenario n².
   n = 6. <br> 
   From (6.(6+1))/2 it will be O(6²).
+  <hr>
+ <h2>Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are     looking for is at the beginning of the series.
+<br> 
+What case does the number 18 fall into after the array is sorted?</h2>
+  <br>
   
- 
