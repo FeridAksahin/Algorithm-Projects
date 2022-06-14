@@ -40,3 +40,6 @@ The 5th element and after are looked
 [2,6,16,18,22,27]
 <hr>
 <h2>2. Write the Big-O notation.<h2/>
+ <br>
+  <p>In the 1st step, all the elements were checked, so if there are n elements, n operations were performed to find the smallest one.
+  </p>
