@@ -13,4 +13,7 @@ Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.<br>
 [22,27,16,2,18,6] <br>
 
 <b>Step 1</b> <br>
+The smallest element of the array is replaced by the 1st element. <br>
+[2,27,16,22,18,6]<br>
+<b>Step 2</b> <br>
 
