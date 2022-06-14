@@ -12,11 +12,11 @@ Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.<br>
 
 [22,27,16,2,18,6] <br>
 <ul> 
-<li><b>Step 1</b> <br> </li>
+<li><b>Step 1</b> </li> <br>
 The smallest element of the array is replaced by the 1st element. <br>
 [2,27,16,22,18,6] 
 <br>  
-<li><b>Step 2</b> <br></li>
+<li><b>Step 2</b> </li> <br>
 Current state of our array : [2,27,16,22,18,6] <br>
 We're looking at element 2 and beyond. The smallest element is written in the 2nd element and replaced with the element in the 2nd element. <br>
 [2,6,16,22,18,27]
