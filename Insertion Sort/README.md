@@ -49,6 +49,6 @@ The 5th element and after are looked
   <li>In step 6, only the 6th element remains and it becomes +1 because only 1 element, that is, 1 operation remains.</li>
   </ul>
   <br>
-  Our algorithm became - > n+(n-1)+(n-2)+(n-3)+(n-4)+1. This is actually the sum of the numbers from 1 to n. The formula for the sum of numbers from 1 to n comes from (n(n+1))/2 =here (n²+n)/2.
+  Our algorithm became - > n+(n-1)+(n-2)+(n-3)+(n-4)+1. This is actually the sum of the numbers from 1 to n. The formula for the sum of numbers from 1 to n comes from (n(n+1))/2 = (n²+n)/2.
   
  
