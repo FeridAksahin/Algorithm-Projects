@@ -38,4 +38,5 @@ The 5th element and after are looked
 <br>  
 <b>Step 6</b> <br>
 [2,6,16,18,22,27]
-
+<hr>
+<h2>2. Write the Big-O notation.<h2/>
