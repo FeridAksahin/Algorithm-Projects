@@ -51,6 +51,6 @@ The 5th element and after are looked
   <br>
   Our algorithm became - > n+(n-1)+(n-2)+(n-3)+(n-4)+1. This is actually the sum of the numbers from 1 to n. The formula for the sum of numbers from 1 to n comes from (n(n+1))/2 = (n²+n)/2.
   <br>
-  In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of this algorithm comes from O(n²) from here. So the time complexity of Insertion Sort is worst case scenario n².
+  <br> In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of this algorithm comes from O(n²) from here. So the time complexity of Insertion Sort is worst case scenario n².
   
  
