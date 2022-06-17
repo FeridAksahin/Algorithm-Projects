@@ -1,13 +1,13 @@
-# Selective Sort
+# Selection Sort
 <hr>
-[22,27,16,2,18,6] -> Selective Sort<br>
-1.  Write the stages of the above sequence according to the Selective Sort type. <br>
+[22,27,16,2,18,6] -> Selection Sort<br>
+1.  Write the stages of the above sequence according to the Selection Sort type. <br>
 2.	Write the Big-O notation.<br>
 3.	Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are looking for is at the beginning of the series. <br>
 What case does the number 18 fall into after the array is sorted?<br>
-4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Selective Sort.
+4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Selection Sort.
 <hr>
-<h2> 1.  Write the stages of the above sequence according to the Selective Sort type. </h2>
+<h2> 1.  Write the stages of the above sequence according to the Selection Sort type. </h2>
 
 [22,27,16,2,18,6] <br>
 
@@ -79,5 +79,5 @@ The number 18, that is, the number we are looking for, is in the middle after th
 <b>Step 4</b>
 <br>
 [2,3,4,5,7,9,8,15,6] -- n-3 transaction<br>
-<br>  
+ <br>  
   
