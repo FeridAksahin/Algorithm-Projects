@@ -79,5 +79,5 @@ The number 18, that is, the number we are looking for, is in the middle after th
 <b>Step 4</b>
 <br>
 [2,3,4,5,7,9,8,15,6] -- n-3 transaction<br>
-<br>  
+ <br>  
   
