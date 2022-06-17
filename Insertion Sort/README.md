@@ -1,13 +1,13 @@
 # Selective Sort
 <hr>
-[22,27,16,2,18,6] -> Insertion Sort<br>
-1.  Write the stages of the above sequence according to the Insertion Sort type. <br>
+[22,27,16,2,18,6] -> Selective Sort<br>
+1.  Write the stages of the above sequence according to the Selective Sort type. <br>
 2.	Write the Big-O notation.<br>
 3.	Time Complexity: Average case: The number we are looking for is in the middle, Worst case: The number we are looking for is at the end, Best case: The number we are looking for is at the beginning of the series. <br>
 What case does the number 18 fall into after the array is sorted?<br>
-4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Insertion Sort.
+4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Selective Sort.
 <hr>
-<h2> 1.  Write the stages of the above sequence according to the Insertion Sort type. </h2>
+<h2> 1.  Write the stages of the above sequence according to the Selective Sort type. </h2>
 
 [22,27,16,2,18,6] <br>
 
@@ -50,7 +50,7 @@ The 5th element and after are looked
   <br>
   Our algorithm became - > n+(n-1)+(n-2)+(n-3)+(n-4)+1. This is actually the sum of the numbers from 1 to n. The formula for the sum of numbers from 1 to n comes from (n(n+1))/2 = (n²+n)/2.
   <br>
-  <br> In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of the Insertion Sort algorithm is O(n²). So the time complexity of Insertion Sort is worst case scenario n².
+  <br> In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of the Selective Sort algorithm is O(n²). So the time complexity of Selective Sort is worst case scenario n².
   n = 6. <br> 
   From (6.(6+1))/2 it will be O(6²).
   
@@ -60,10 +60,10 @@ The 5th element and after are looked
 
 <br> What case does the number 18 fall into after the array is sorted?</h2>
 Time Complexity,
-The number 18, that is, the number we are looking for, is in the middle after the Insertion sort, so it is the Average case.
+The number 18, that is, the number we are looking for, is in the middle after the Selective sort, so it is the Average case.
 
 <hr>
-<h2>4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Insertion Sort.</h2>
+<h2>4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Selective Sort.</h2>
 <b>Step 1</b>
 <br>
 [2,3,5,8,7,9,4,15,6] -- n transaction<br>
