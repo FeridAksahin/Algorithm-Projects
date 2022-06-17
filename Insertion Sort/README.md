@@ -1,4 +1,4 @@
-# Insertion Sort
+# Selective Sort
 <hr>
 [22,27,16,2,18,6] -> Insertion Sort<br>
 1.  Write the stages of the above sequence according to the Insertion Sort type. <br>
