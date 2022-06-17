@@ -50,7 +50,7 @@ The 5th element and after are looked
   <br>
   Our algorithm became - > n+(n-1)+(n-2)+(n-3)+(n-4)+1. This is actually the sum of the numbers from 1 to n. The formula for the sum of numbers from 1 to n comes from (n(n+1))/2 = (n²+n)/2.
   <br>
-  <br> In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of the Selective Sort algorithm is O(n²). So the time complexity of Selective Sort is worst case scenario n².
+  <br> In Big O notation, the largest is taken, that is, the most dominant. The Big O notation of the Selection Sort algorithm is O(n²). So the time complexity of Selection Sort is worst case scenario n².
   n = 6. <br> 
   From (6.(6+1))/2 it will be O(6²).
   
@@ -60,10 +60,10 @@ The 5th element and after are looked
 
 <br> What case does the number 18 fall into after the array is sorted?</h2>
 Time Complexity,
-The number 18, that is, the number we are looking for, is in the middle after the Selective sort, so it is the Average case.
+The number 18, that is, the number we are looking for, is in the middle after the Selection sort, so it is the Average case.
 
 <hr>
-<h2>4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Selective Sort.</h2>
+<h2>4.	Write the first 4 steps of [7,3,5,8,2,9,4,15,6] according to Selection Sort.</h2>
 <b>Step 1</b>
 <br>
 [2,3,5,8,7,9,4,15,6] -- n transaction<br>
