@@ -18,7 +18,7 @@
   
 </h4>    
 
-Answer : O(nlogn) = (6log6) 
+O(nlogn) = (6log6) 
 <br>
 
 Merge Sort algorithm is divide and conqueror algorithm. Time complexity of merge sort algorithm is O(nlogn). Since the divide and conquer algorithms are not linear and are operated by dividing into two.
