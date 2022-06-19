@@ -27,7 +27,7 @@ Merge Sort algorithm is divide and conqueror algorithm. Time complexity of merge
 n² > nlogn because the logarithm of n is < n. So it is smaller than n². In other words, divide and conquer algorithms are faster than linear sorting algorithms such as big o notation n², n. (like selection, bubble, insertion) 
 <br>
 <br>
-There may not be much difference in series consisting of a small number of data, but as the data increases, if there are data such as 1 million or 10 million, the difference is obviously.
+There may not be much difference in series consisting of a small number of data, but as the data increases, if there are data such as 1 million or 10 million etc, the difference is obviously.
 <br>
 <br>
 The big-o notation of the merge sort algorithm is n(log(n)) for average, best, worst cases. 
