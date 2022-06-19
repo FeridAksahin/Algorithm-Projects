@@ -5,13 +5,19 @@
 - [ ] Big-O notation
 <hr>
 <h4>
+  
 - [x] Stages of the above array according to the merge sort type.
+  
 </h4>
+
 <img src="answer.jpg">
 <hr>
 <h4>
+  
 - [x] Big-O notation
-</h4>      
+  
+</h4>    
+
 Answer : O(nlogn) = (6log6) 
 <br>
 
