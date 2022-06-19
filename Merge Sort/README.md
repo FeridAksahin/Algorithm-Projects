@@ -1,5 +1,5 @@
 # Merge Sort
-[16,21,11,8,12,22]  
+` [16,21,11,8,12,22]  `
 # Tasks
 - [ ] Stages of the above array according to the merge sort type.
 - [ ] Big-O notation
