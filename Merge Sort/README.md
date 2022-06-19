@@ -1,5 +1,5 @@
 # Merge Sort
 
-<img src="Merge Sort/answewr.PNG">
+<img src="answer.jpg">
 
 <img src="images and video/3.gif">
